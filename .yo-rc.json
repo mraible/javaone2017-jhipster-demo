@@ -33,6 +33,7 @@
     "languages": [
       "en",
       "es"
-    ]
+    ],
+    "herokuAppName": "javaoneblog"
   }
 }
